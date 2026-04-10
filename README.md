@@ -1,23 +1,21 @@
-# deepread
+# deepread | [EN](README.en.md)
 
-An AI-powered reading and knowledge management tool built on retrieval-augmented generation technology for WordPress articles. It organizes WordPress articles into a local knowledge base and enables AI-powered search, understanding, and Q&A.
+一款基于检索增强生成技术的 AI 驱动阅读与知识管理工具，专为 WordPress 文章打造。它将 WordPress 文章整理为本地知识库，实现 AI 智能搜索、理解和问答。
 
-## ✨ Core Features:
-📊 Batch Download: Enter a WordPress category URL to batch download articles and build your personal knowledge base.
-📚 Article Management: Supports local storage and search. Easily view Markdown files and accumulate long-term references.
-🤖 AI Smart Dialogue: Answer questions based on your local knowledge base, significantly reducing AI hallucinations—ideal for research and reviewing materials.
-⚙️ Customizable Settings: Flexibly configure API keys, base URLs, and download paths to suit different workflows.
-🌐 Multilingual Support: Use in Simplified Chinese, Traditional Chinese, or English to cover a wide range of users.
-⭐ Cross-Platform: Compatible with Windows, macOS, and Linux.
+## ✨ 核心功能：
+- 📊 批量下载：输入 WordPress 分类网址，批量下载文章，搭建个人知识库。
 
-## ✨ UI preview
-Download Center
-The Download Center is perfect for grabbing WordPress blog content in bulk—especially useful for specialized research, knowledge archiving, and team resource management.
+- 📚 文章管理：支持本地储存与搜索，轻松查看 Markdown 文件，积累长期参考资料。
+- 🤖 AI 智能对话：基于本地知识库智能解答问题，大幅减少 AI 幻觉——非常适合科研、材料复盘。
+- ⚙️ 可定制设置：灵活配置 API Key、基础 URL、下载路径，适配不同工作流。
+- 🌐 多语言支持：可用简体中文、繁体中文或英文，覆盖更广泛用户群体。
+- ⭐ 跨平台兼容：支持 Windows、macOS 和 Linux。
+
+## ✨ UI 预览
+下载中心
+下载中心非常适合批量获取 WordPress 博客内容，尤其适用于专业研究、知识归档和团队资源管理。
 <img width="2668" height="1924" alt="Screenshots_20260317_080355" src="https://github.com/user-attachments/assets/2fefc566-ab31-41f0-bb23-3a424a88462c" />
 
-AI Dialogue
-The AI Dialogue is DeepRead’s shining feature. You can continuously ask questions based on your local knowledge base, making your articles not just “stored,” but truly “used.”
-<img width="2668" height="1924" alt="Screenshots_20260317_080411" src="https://github.com/user-attachments/assets/bfdd15a2-0821-48db-bde0-54c7cb0510ef" />
-
-
-You could go to https://wisdom-valley.net/get/index.html to download and try it out. and here is a quick start manual https://wisdom-valley.net/en/guide/deep-read/index.html. If you find anything unsatisfactory, please let me know.
+AI 对话
+AI 对话是 DeepRead 的亮点功能。你可以基于本地知识库持续提问，让你的文章不仅“被存储”，而且实现真正“被利用”。
+<img width="2668" height="1924" alt="Screenshots_20260317_080411" src="https://github.com/user-attachments/assets
