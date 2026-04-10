@@ -19,6 +19,3 @@ The Download Center is perfect for grabbing WordPress blog content in bulk—esp
 AI Dialogue
 The AI Dialogue is DeepRead’s shining feature. You can continuously ask questions based on your local knowledge base, making your articles not just “stored,” but truly “used.”
 <img width="2668" height="1924" alt="Screenshots_20260317_080411" src="https://github.com/user-attachments/assets/bfdd15a2-0821-48db-bde0-54c7cb0510ef" />
-
-
-You could go to https://wisdom-valley.net/get/index.html to download and try it out. and here is a quick start manual https://wisdom-valley.net/en/guide/deep-read/index.html. If you find anything unsatisfactory, please let me know.

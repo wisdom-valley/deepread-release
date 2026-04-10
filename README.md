@@ -18,4 +18,4 @@
 
 AI 对话
 AI 对话是 DeepRead 的亮点功能。你可以基于本地知识库持续提问，让你的文章不仅“被存储”，而且实现真正“被利用”。
-<img width="2668" height="1924" alt="Screenshots_20260317_080411" src="https://github.com/user-attachments/assets
+<img width="2668" height="1924" alt="Screenshots_20260317_080411" src="https://github.com/user-attachments/assets/bfdd15a2-0821-48db-bde0-54c7cb0510ef" />
